@@ -1,0 +1,11 @@
+google-genai
+python-dotenv
+requests
+pdfplumber
+fastapi
+uvicorn
+python-multipart
+streamlit
+pandas
+rapidfuzz
+pytest
